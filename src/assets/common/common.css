@@ -1,0 +1,28 @@
+body {
+  height: 100%;
+}
+
+.el-tabs__item {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.myAvatar {
+  height: 46px;
+  width: 46px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  -moz-box-shadow: 1px 2px 4px rgb(240, 240, 240);
+  -webkit-box-shadow: 1px 2px 4px rgb(240, 240, 240);
+  box-shadow: 1px 2px 4px rgb(240, 240, 240);
+}
+
+/* .comment-p {
+  margin: 10px 0 0 20px;
+} */
+
+/* .el-card__body {
+  display: inline-flex;
+} */
